@@ -1,4 +1,4 @@
 window.CONFIG = {
-    API_URL: 'https://api.yourdomain.com',  // 🔜 Baad mein change hogi
+    API_URL: 'http://localhost:3000/api',  // Backend URL
     ENV: 'development'
 };
